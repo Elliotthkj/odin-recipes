@@ -1,0 +1,55 @@
+body {
+  background-color: rgb(255, 198, 207);
+  font-family: "Brush Script MT", cursive, "Times New Roman", Times, serif;
+  margin: 0;
+}
+
+h1 {
+  text-align: center;
+  font-size: 60px;
+  background-color: rgb(255, 201, 140);
+  border: 3px solid;
+  margin: 0;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.home-list {
+  margin-left: 15%;
+  font-size: 35px;
+}
+
+.home-btn {
+  font-weight: bold;
+  font-size: 30px;
+  margin-left: .5em;
+}
+
+.recipe-body {
+  margin: 1em;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link {
+  color: brown;
+}
+
+a:visited {
+  color: brown;
+}
+
+a:hover {
+  color: black;
+}
+
+a:active {
+  color: hotpink;
+}
